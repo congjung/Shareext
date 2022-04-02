@@ -28,6 +28,43 @@ http://group1-swiftservesd-1.dens.tv/h/h12/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",iNews
 https://rcti-linier.rctiplus.id/live/eds/INEWS_2021/live_fta/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",Indosiar
+http://begaltvku.site/ventidos/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",CitraBioskop
+http://begaltvku.site/ventidos/master-1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",CitraDrama
+http://begaltvku.site/ventidos/master-2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",LFCTV
+http://begaltvku.site/ventidos/master-3.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",HIP2HOREE
+http://begaltvku.site/ventidos/master-4.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",Horee
+http://begaltvku.site/ventidos/master-5.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",CitraMuslim
+http://begaltvku.site/ventidos/master-9.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",CitraDangdut
+http://begaltvku.site/ventidos/master-10.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",CitraEntertainmend
+http://begaltvku.site/ventidos/master-11.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",AnTv
+http://begaltvku.site/ventidos/master-12.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",TvOne
+http://begaltvku.site/ventidos/master-13.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",PramborFM
+http://begaltvku.site/ventidos/master-14.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",TVN
+http://begaltvku.site/ventidos/master-16.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",RCTI_plus(dec=native)
+https://lnk.ec/RCTIplus?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",MNCTV_plus(dec=native)
+https://lnk.ec/MNCTVplus?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",INEWS_plus(dec=native)
+https://lnk.ec/INEWSplus?shareext.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",GTV_plus(dec=native)
+https://lnk.ec/GTVplus?shareext.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="ShareExt@Malaysia",Unifi Sport1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
