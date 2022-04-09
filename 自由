@@ -6,9 +6,9 @@ http://group2-swiftservesd-1.dens.tv/s/s03/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",RCTI
 http://iptv12k.com:35461/8022022301/468985/2185
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",MNCTV
-http://47.250.50.187:8866/live?channel_id=7178
+http://8.215.64.236:8866/live?channel_id=7506
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",GTV
-http://47.250.50.187:8866/live?channel_id=7179
+http://8.215.64.236:8866/live?channel_id=7507
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",TRANS7
 http://ksg.my.id/api/dm/manifest.m3u8?src=dailymotion&id=x6p1gw7
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",TRANS
