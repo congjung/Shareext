@@ -6,9 +6,9 @@ http://group2-swiftservesd-1.dens.tv/s/s03/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",RCTI
 http://iptv12k.com:35461/8022022301/468985/2185
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",MNCTV
-https://tv.idxchannel.com/jeeH6Tahduy0Leenie8yiquuothe1ipe/mnctv.m3u8
+http://47.250.50.187:8866/live?channel_id=7178
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",GTV
-https://tv.idxchannel.com/jeeH6Tahduy0Leenie8yiquuothe1ipe/mnctv.m3u8
+http://47.250.50.187:8866/live?channel_id=7179
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",TRANS7
 http://ksg.my.id/api/dm/manifest.m3u8?src=dailymotion&id=x6p1gw7
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",TRANS
@@ -26,7 +26,7 @@ http://group2-swiftservehd-1.dens.tv/h/h10/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",METRO TV
 http://group1-swiftservesd-1.dens.tv/h/h12/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",iNews
-https://tv.idxchannel.com/jeeH6Tahduy0Leenie8yiquuothe1ipe/inewstv.m3u8
+http://47.250.50.187:8866/live?channel_id=7180
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",Indosiar
 http://begaltvku.site/ventidos/master.m3u8
