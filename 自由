@@ -7,7 +7,7 @@ http://group2-swiftservesd-1.dens.tv/s/s03/index.m3u8
 http://iptv12k.com:35461/8022022301/468985/2185
 #http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwnsM9mNcxyPGxY8-CvCJVfA/ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",MNCTV
-http://8.215.64.236:8866/live?channel_id=7506
+http://iptv12k.com:35461/8022022301/468985/2175
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",GTV
 http://8.215.64.236:8866/live?channel_id=7507
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",TRANS7
