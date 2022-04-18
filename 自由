@@ -1,8 +1,8 @@
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",INDOSIAR
-http://group2-swiftservesd-1.dens.tv/s/s04/index.m3u8
+http://akudandia.xyz/locs/akudandia-205.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",SCTV
-http://group2-swiftservesd-1.dens.tv/s/s03/index.m3u8
+http://akudandia.xyz/locs/akudandia-204.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",RCTI
 http://iptv12k.com:35461/8022022301/468985/2185
 #http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwnsM9mNcxyPGxY8-CvCJVfA/ts
@@ -15,19 +15,20 @@ http://iptv12k.com:35461/8022022301/468985/4290
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",TRANS7
 http://akudandia.xyz/locs/akudandia-734.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",TRANS
-http://group2-swiftservesd-1.dens.tv/s/s05/index.m3u8
+http://akudandia.xyz/locs/akudandia-733.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",NET
-http://group2-swiftservesd-1.dens.tv/s/s08/index.m3u8
+http://akudandia.xyz/locs/akudandia-875.m3u8
+#http://group2-swiftservesd-1.dens.tv/s/s08/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",ANTV
-http://group2-swiftservesd-1.dens.tv/s/s07/index.m3u8
+http://akudandia.xyz/locs/akudandia-782.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",TVONE
-http://group2-swiftservesd-1.dens.tv/s/s105/index.m3u8
+http://akudandia.xyz/locs/akudandia-783.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",KOMPASTV
-http://group2-swiftservesd-1.dens.tv/s/s104/index.m3u8
+http://akudandia.xyz/locs/akudandia-874.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",RTV
-http://group2-swiftservehd-1.dens.tv/h/h10/index.m3u8
+http://akudandia.xyz/locs/akudandia-1561.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",METRO TV
-http://group1-swiftservesd-1.dens.tv/h/h12/index.m3u8
+http://akudandia.xyz/locs/akudandia-777.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",iNews
 http://47.250.50.187:8866/live?channel_id=7180
 
