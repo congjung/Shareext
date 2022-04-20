@@ -184,13 +184,13 @@ http://group2-swiftservesd-1.dens.tv/s/s34/index.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small1.png" group-title="ShareExt@korea", SONE SD
-http://group1-swiftservehd-1.dens.tv/h/h143/index.m3u8
+http://210.210.129.106/uq2663/h/h143/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="ShareExt@korea",TVN MOVIE
-http://group2-swiftservehd-1.dens.tv/h/h21/index.m3u8
+http://210.210.155.35/uq2663/h/h21/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="ShareExt@korea", TVN HD
-http://group2-swiftservehd-1.dens.tv/h/h20/index.m3u8
+http://210.210.155.35/uq2663/h/h20/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/K_Plus_Asia_Logo.jpg/250px-K_Plus_Asia_Logo.jpg" group-title="ShareExt@korea", K PLUS
-http://group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
+http://210.210.155.35/uq2663/h/h08/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",(true)BeinSport(rolling)
 http://4digital.ddns.net:11222/ts/0
