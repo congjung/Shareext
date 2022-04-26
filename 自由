@@ -188,7 +188,8 @@ http://210.210.129.106/uq2663/h/h143/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="ShareExt@korea",TVN MOVIE
 http://210.210.155.35/uq2663/h/h21/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="ShareExt@korea", TVN HD
-http://210.210.155.35/uq2663/h/h20/index.m3u8
+http://tvn.x10.bz/TvN_ID/master-16.m3u8
+#http://210.210.155.35/uq2663/h/h20/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/K_Plus_Asia_Logo.jpg/250px-K_Plus_Asia_Logo.jpg" group-title="ShareExt@korea", K PLUS
 http://210.210.155.35/uq2663/h/h08/01.m3u8
 
