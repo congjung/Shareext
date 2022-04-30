@@ -4,14 +4,15 @@ http://akudandia.xyz/locs/akudandia-205.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",SCTV
 http://akudandia.xyz/locs/akudandia-204.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",RCTI
-http://iptv12k.com:35461/8022022301/468985/2185
+https://d1akid76fpbq4x.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
 #http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwnsM9mNcxyPGxY8-CvCJVfA/ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",RCTI FHD
 http://tempoyak.eu5.org/hadir/cempalet
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",MNCTV
-http://iptv12k.com:35461/8022022301/468985/2175
+https://d1akid76fpbq4x.cloudfront.net/live/eds/MNCTV_2021/live_fta/MNCTV_2021.m3u8
+#http://iptv12k.com:35461/8022022301/468985/2175
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",GTV
-http://iptv12k.com:35461/8022022301/468985/4290
+https://d322b885qvsbxg.cloudfront.net/GTV2021-avc1_100000=6.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",TRANS7
 http://akudandia.xyz/locs/akudandia-734.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",TRANS
