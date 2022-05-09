@@ -25,13 +25,13 @@ http://akudandia.xyz/locs/akudandia-733.m3u8
 http://akudandia.xyz/locs/akudandia-875.m3u8
 #http://group2-swiftservesd-1.dens.tv/s/s08/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",ANTV
-http://akudandia.xyz/locs/akudandia-782.m3u8
+http://iptv12k.com:35461/live/8022022301/468985/1806.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",TVONE
-http://akudandia.xyz/locs/akudandia-783.m3u8
+http://iptv12k.com:35461/live/8022022301/468985/1805.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",KOMPASTV
 http://akudandia.xyz/locs/akudandia-874.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",RTV
-http://akudandia.xyz/locs/akudandia-1561.m3u8
+http://iptv12k.com:35461/live/8022022301/468985/1770.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",METRO TV
 http://akudandia.xyz/locs/akudandia-777.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",iNews
@@ -66,15 +66,6 @@ http://tvn.x10.bz/TvN_ID/master-14.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",TVN
 http://tvn.x10.bz/TvN_ID/master-16.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",RCTI_plus(dec=native)
-https://lnk.ec/RCTIplus?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",MNCTV_plus(dec=native)
-https://lnk.ec/MNCTVplus?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",INEWS_plus(dec=native)
-https://lnk.ec/INEWSplus?shareext.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",GTV_plus(dec=native)
-https://lnk.ec/GTVplus?shareext.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="ShareExt@Malaysia",Unifi Sport1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -156,16 +147,17 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="https://i0.wp.com/mikirtekno.com/wp-content/uploads/2021/03/MKCTV-GO-Apk.png" group-title="SHAREEXT@MOVIES_Indonesia",MKC Movie
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 #EXTINF: -1 tvg-name="HBO.id" tvg-logo="https://www.infotelevisi.com/asset/logotv/5690c06fb32f2-hbo_asia_hd.jpg" group-title="SHAREEXT@MOVIES_Indonesia", HBO Indo
-https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hbo
+http://iptv12k.com:35461/live/8022022301/468985/1748.ts
+#https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hbo
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="SHAREEXT@MOVIES_Indonesia", HBOFamily
-https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=fam
+http://iptv12k.com:35461/live/8022022301/468985/1746.ts
+#https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=fam
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="SHAREEXT@MOVIES_Indonesia", HBOSignature
-https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=sig
+http://iptv12k.com:35461/live/8022022301/468985/2118.ts
+#https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=sig
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="SHAREEXT@MOVIES_Indonesia", HBOHits
-https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hit
-#https://mkctv.net/sile/hit.m3u8
-#http://23.101.22.105:19440/play/HITS/index.m3u8
-#http://gumisasak-vision.online/Gegonjer-TV/Master/INI_HBO/HIT.m3u8
+http://iptv12k.com:35461/live/8022022301/468985/598.ts
+#https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hit
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="SHAREEXT@MOVIES_Indonesia", CINEMAX
 https://lnk.ec/cinemaxID?shareext.ts
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/MCN.png" group-title="SHAREEXT@MOVIES_Indonesia",My Cinema
@@ -191,9 +183,10 @@ http://group2-swiftservesd-1.dens.tv/s/s34/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small1.png" group-title="ShareExt@korea", SONE SD
 http://210.210.129.106/uq2663/h/h143/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="ShareExt@korea",TVN MOVIE
-http://210.210.155.35/uq2663/h/h21/index.m3u8
+http://iptv12k.com:35461/live/8022022301/468985/1747.ts
+#http://210.210.155.35/uq2663/h/h21/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="ShareExt@korea", TVN HD
-http://tvn.x10.bz/TvN_ID/master-16.m3u8
+http://iptv12k.com:35461/live/8022022301/468985/1747.ts
 #http://210.210.155.35/uq2663/h/h20/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/K_Plus_Asia_Logo.jpg/250px-K_Plus_Asia_Logo.jpg" group-title="ShareExt@korea", K PLUS
 http://210.210.155.35/uq2663/h/h08/01.m3u8
