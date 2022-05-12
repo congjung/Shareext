@@ -28,7 +28,7 @@ http://akudandia.xyz/locs/akudandia-875.m3u8
 http://202.150.161.116/ANTV/tracks-v1a1/mono.m3u8
 #http://iptv12k.com:35461/live/8022022301/468985/1806.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",TVONE
-http://iptv12k.com:35461/live/8022022301/468985/1805.ts
+http://iptv12k.com:35461/8022022301/468985/1805
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",KOMPASTV
 http://akudandia.xyz/locs/akudandia-874.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",RTV
