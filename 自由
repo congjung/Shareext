@@ -22,11 +22,10 @@ http://sharebozz.6te.net/vidio/trans7.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",TRANS
 http://sharebozz.6te.net/vidio/trans.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",NET
-http://akudandia.xyz/locs/akudandia-875.m3u8
-#http://group2-swiftservesd-1.dens.tv/s/s08/index.m3u8
+http://iptv12k.com:35461/8022022301/468985/1813
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",ANTV
-http://202.150.161.116/ANTV/tracks-v1a1/mono.m3u8
-#http://iptv12k.com:35461/live/8022022301/468985/1806.ts
+http://iptv12k.com:35461/8022022301/468985/1806
+#http://202.150.161.116/ANTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",TVONE
 http://iptv12k.com:35461/8022022301/468985/1805
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",KOMPASTV
@@ -34,38 +33,9 @@ http://akudandia.xyz/locs/akudandia-874.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",RTV
 http://iptv12k.com:35461/live/8022022301/468985/1770.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",METRO TV
-http://akudandia.xyz/locs/akudandia-777.m3u8
+http://iptv12k.com:35461/8022022301/468985/2180
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",iNews
-http://47.250.50.187:8866/live?channel_id=7180
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",Indosiar
-http://tvn.x10.bz/TvN_ID/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",CitraBioskop
-http://tvn.x10.bz/TvN_ID/master-1.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",CitraDrama
-http://tvn.x10.bz/TvN_ID/master-2.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",LFCTV
-http://tvn.x10.bz/TvN_ID/master-3.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",HIP2HOREE
-http://tvn.x10.bz/TvN_ID/master-4.m3u8
-
-http://begaltvku.site/ventidos/master-4.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",Horee
-http://tvn.x10.bz/TvN_ID/master-5.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",CitraMuslim
-http://tvn.x10.bz/TvN_ID/master-9.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",CitraDangdut
-http://tvn.x10.bz/TvN_ID/master-10.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",CitraEntertainmend
-http://tvn.x10.bz/TvN_ID/master-11.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",AnTv
-http://tvn.x10.bz/TvN_ID/master-12.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",TvOne
-http://tvn.x10.bz/TvN_ID/master-13.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",PramborFM
-http://tvn.x10.bz/TvN_ID/master-14.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="ShareExt@VIDIO",TVN
-http://tvn.x10.bz/TvN_ID/master-16.m3u8
+https://d25tjwq1t7aw0m.cloudfront.net/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="ShareExt@Malaysia",Unifi Sport1
