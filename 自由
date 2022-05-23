@@ -118,50 +118,42 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="https://i0.wp.com/mikirtekno.com/wp-content/uploads/2021/03/MKCTV-GO-Apk.png" group-title="SHAREEXT@MOVIES_Indonesia",MKC Movie
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
-#EXTINF: -1 tvg-name="HBO.id" tvg-logo="https://www.infotelevisi.com/asset/logotv/5690c06fb32f2-hbo_asia_hd.jpg" group-title="SHAREEXT@MOVIES_Indonesia", HBO Indo
-http://axcestv.vip:8080/live/freeview/axcestv/693.ts
-#https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hbo
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="SHAREEXT@MOVIES_Indonesia", HBOFamily
-http://axcestv.vip:8080/live/freeview/axcestv/696.ts
+#EXTINF: -1 tvg-name="HBO.id" tvg-logo="https://www.infotelevisi.com/asset/logotv/5690c06fb32f2-hbo_asia_hd.jpg" group-title="SHAREEXT@MOVIES_Indonesia", HBO Indo Kvision
+http://203.77.246.50:5000/udp/239.1.3.84:5000
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="SHAREEXT@MOVIES_Indonesia", HBOFamily Kvision
+http://203.77.246.50:5000/udp/239.1.3.76:5000
 #https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=fam
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="SHAREEXT@MOVIES_Indonesia", HBOSignature
-http://axcestv.vip:8080/live/freeview/axcestv/697.ts
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="SHAREEXT@MOVIES_Indonesia", HBOSignature Kvision
+http://203.77.246.50:5000/udp/239.1.3.74:5000
 #https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=sig
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="SHAREEXT@MOVIES_Indonesia", HBOHits
-http://iptv12k.com:35461/live/8022022301/468985/598.ts
-#https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=hit
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="SHAREEXT@MOVIES_Indonesia", CINEMAX
-https://lnk.ec/cinemaxID?shareext.ts
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/MCN.png" group-title="SHAREEXT@MOVIES_Indonesia",My Cinema
-http://group1-swiftservesd-1.dens.tv/h/h192/index.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="SHAREEXT@MOVIES_Indonesia", HBOHits Kvision
+http://203.77.246.50:5000/udp/239.1.3.82:5000
 #EXTINF: -1 tvg-logo="https://2.bp.blogspot.com/-P95DfEhU8hQ/Xg2yxxf61LI/AAAAAAAApIA/4-FZeL8yA5YIe5EDO19mePYnoCuAmg9mwCLcBGAsYHQ/s1600/my-cinema-asia-channel-tv-logo.png" group-title="SHAREEXT@MOVIES_Indonesia",My Cinema Asia
 http://group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
 #EXTINF: -1 tvg-logo="https://cms.cignal.tv/Upload/Images/Cinema-Europe.png" group-title="SHAREEXT@MOVIES_Indonesia",My Cinema Europe
-http://group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
+http://playlist.urfan.web.id/uq2663/h/h18/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/celestial_classic_SHAREEXT@MOVIES_Indonesia.jpg" group-title="SHAREEXT@MOVIES_Indonesia", Clestial Clasic
-http://group2-swiftservesd-1.dens.tv/s/s31/index.m3u8
+http://playlist.urfan.web.id/qwr9ew/s/s31/01.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/CMC_English_full_color_black_text_2.jpg" group-title="SHAREEXT@MOVIES_Indonesia", Clestial Movie
-http://group2-swiftservehd-1.dens.tv/h/h14/index.m3u8
+http://playlist.urfan.web.id/dr9445/h/h14/01.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="SHAREEXT@MOVIES_Indonesia", KIX
-http://group2-swiftservehd-1.dens.tv/h/h07/index.m3u8
+http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/923508008952279041/UbA6K2Wj.jpg" group-title="SHAREEXT@MOVIES_Indonesia", Zee Bioskop
-http://group2-swiftservesd-1.dens.tv/s/s32/01.m3u8
+http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 #EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/AUj9an1e7RY/maxresdefault.jpg" group-title="SHAREEXT@MOVIES_Indonesia", AXN
-http://group2-swiftservehd-1.dens.tv/h/h141/index.m3u8
+http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="SHAREEXT@MOVIES_Indonesia", THRILL
 http://group2-swiftservesd-1.dens.tv/s/s34/index.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small1.png" group-title="ShareExt@korea", SONE SD
-http://210.210.129.106/uq2663/h/h143/index.m3u8
+http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="ShareExt@korea",TVN MOVIE
-http://iptv12k.com:35461/live/8022022301/468985/1747.ts
-#http://210.210.155.35/uq2663/h/h21/index.m3u8
+http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="ShareExt@korea", TVN HD
-http://iptv12k.com:35461/live/8022022301/468985/1747.ts
-#http://210.210.155.35/uq2663/h/h20/index.m3u8
+http://210.210.155.35:80/dr9445/h/h20/01.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/K_Plus_Asia_Logo.jpg/250px-K_Plus_Asia_Logo.jpg" group-title="ShareExt@korea", K PLUS
-http://210.210.155.35/uq2663/h/h08/01.m3u8
+http://210.210.155.35:80/uq2663/h/h08/01.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",(true)BeinSport(rolling)
