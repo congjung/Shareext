@@ -118,16 +118,16 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="https://i0.wp.com/mikirtekno.com/wp-content/uploads/2021/03/MKCTV-GO-Apk.png" group-title="SHAREEXT@MOVIES_Indonesia",MKC Movie
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
-#EXTINF: -1 tvg-name="HBO.id" tvg-logo="https://www.infotelevisi.com/asset/logotv/5690c06fb32f2-hbo_asia_hd.jpg" group-title="SHAREEXT@MOVIES_Indonesia", HBO Indo Kvision
-http://203.77.246.50:5000/udp/239.1.3.84:5000
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="SHAREEXT@MOVIES_Indonesia", HBOFamily Kvision
-http://203.77.246.50:5000/udp/239.1.3.76:5000
+#EXTINF: -1 tvg-name="HBO.id" tvg-logo="https://www.infotelevisi.com/asset/logotv/5690c06fb32f2-hbo_asia_hd.jpg" group-title="SHAREEXT@MOVIES_Indonesia", HBO Indo
+http://andistores.my.id/hbo1/mulai.m3u8?id=hbohd
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="SHAREEXT@MOVIES_Indonesia", HBOFamily 
+http://andistores.my.id/hbo1/mulai.m3u8?id=famhd
 #https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=fam
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="SHAREEXT@MOVIES_Indonesia", HBOSignature Kvision
-http://203.77.246.50:5000/udp/239.1.3.74:5000
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="SHAREEXT@MOVIES_Indonesia", HBOSignature
+http://andistores.my.id/hbo1/mulai.m3u8?id=sighd
 #https://jkt2.roll.my.id/manifest/liveorigin/index.m3u8?id=sig
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="SHAREEXT@MOVIES_Indonesia", HBOHits Kvision
-http://203.77.246.50:5000/udp/239.1.3.82:5000
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="SHAREEXT@MOVIES_Indonesia", HBOHits
+http://andistores.my.id/hbo1/mulai.m3u8?id=hitshd
 #EXTINF: -1 tvg-logo="https://2.bp.blogspot.com/-P95DfEhU8hQ/Xg2yxxf61LI/AAAAAAAApIA/4-FZeL8yA5YIe5EDO19mePYnoCuAmg9mwCLcBGAsYHQ/s1600/my-cinema-asia-channel-tv-logo.png" group-title="SHAREEXT@MOVIES_Indonesia",My Cinema Asia
 http://group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
 #EXTINF: -1 tvg-logo="https://cms.cignal.tv/Upload/Images/Cinema-Europe.png" group-title="SHAREEXT@MOVIES_Indonesia",My Cinema Europe
