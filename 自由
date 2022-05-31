@@ -4,8 +4,8 @@ https://www.dropbox.com/s/z74hek5gmejxyzg/idulfitri.mkv?dl=1
 #EXTINF: -1 tvg-logo="https://img.inews.co.id/media/600/files/inews_new/2022/04/29/ucapan_selamat_idul_fitri_2022.jpg" group-title="SHAREEXT@LOKAL", Mohon Maaf Lahir Batin
 https://liveanevia.mncnow.id/live/eds/MNCTV-SD/sa_hls/MNCTV-SD.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",INDOSIAR
-http://akudandia.xyz/locs/akudandia-205.m3u8
-#https://bagoltvku.my.id/ubaconang/master.m3u8
+http://203.77.246.50:5000/udp/239.1.1.110:5000
+#http://akudandia.xyz/locs/akudandia-205.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",SCTV
 http://akudandia.xyz/locs/akudandia-204.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",RCTI
