@@ -26,7 +26,7 @@ http://47.250.50.187:8866/live?channel_id=7186
 http://47.250.50.187:8866/player.html?channel_id=7187
 #http://akudandia.xyz/locs/akudandia-733.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",NET
-http://47.250.50.187:8866/live?channel_id=7188
+http://202.150.161.116:80/SCTV/tracks-v1a1/mono.m3u8?shareext.m3u8
 #http://akudandia.xyz/locs/akudandia-875.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",ANTV
 http://47.250.50.187:8866/live?channel_id=7184
