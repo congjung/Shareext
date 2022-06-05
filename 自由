@@ -29,10 +29,10 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 https://bravo.kugo.id/nettv/udp.stream/chunklist.m3u8
 #http://akudandia.xyz/locs/akudandia-875.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",ANTV
-http://47.250.50.187:8866/live?channel_id=7184
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
 #http://202.150.161.116/ANTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",TVONE
-http://47.250.50.187:8866/live?channel_id=7190
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/watch?v=K9lOPKwo44w
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",KOMPASTV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",RTV
@@ -57,7 +57,7 @@ http://rtmlive02tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 #http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
 #https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 #EXTINF: -1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/801_300.png" group-title="ShareExt@Malaysia", Astro Arena
-http://mudy02.cularu.com:8880/SDY14M3N283/14M3N283/71102
+#http://mudy02.cularu.com:8880/SDY14M3N283/14M3N283/71102
 #http://iptv.tvmalaysia.cc:80/kl570/kl570/6707
 #http://gcs2.xyz:80/play/1Y7x-N2V3zxYf3_OMy4qOqZE8yhMQWIqI9vvFnfmHTOVcbiGj8EZG2CkNdoekYIT/ts
 #http://178.128.107.149:5080/WebRTCApp/streams/arena.m3u8
@@ -137,17 +137,17 @@ http://group1-swiftservesd-1.dens.tv/h/h193/index.m3u8
 #EXTINF: -1 tvg-logo="https://cms.cignal.tv/Upload/Images/Cinema-Europe.png" group-title="SHAREEXT@MOVIES_Indonesia",My Cinema Europe
 http://playlist.urfan.web.id/uq2663/h/h18/01.m3u8
 #EXTINF: -1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/celestial_classic_SHAREEXT@MOVIES_Indonesia.jpg" group-title="SHAREEXT@MOVIES_Indonesia", Clestial Clasic
-http://playlist.urfan.web.id/qwr9ew/s/s31/01.m3u8
+http://210.210.155.37/qwr9ew/s/s31/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/CMC_English_full_color_black_text_2.jpg" group-title="SHAREEXT@MOVIES_Indonesia", Clestial Movie
-http://playlist.urfan.web.id/dr9445/h/h14/01.m3u8
+http://210.210.155.37/dr9445/h/h14/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="SHAREEXT@MOVIES_Indonesia", KIX
-http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
+http://210.210.155.37/dr9445/h/h07/index.m3u8
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/923508008952279041/UbA6K2Wj.jpg" group-title="SHAREEXT@MOVIES_Indonesia", Zee Bioskop
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 #EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/AUj9an1e7RY/maxresdefault.jpg" group-title="SHAREEXT@MOVIES_Indonesia", AXN
-http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
+http://210.210.155.37/dr9445/h/h144/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="SHAREEXT@MOVIES_Indonesia", THRILL
-http://group2-swiftservesd-1.dens.tv/s/s34/index.m3u8
+http://210.210.155.37/qwr9ew/s/s34/index.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small1.png" group-title="ShareExt@korea", SONE SD
