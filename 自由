@@ -4,8 +4,8 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://img.inews.co.id/media/600/files/inews_new/2022/04/29/ucapan_selamat_idul_fitri_2022.jpg" group-title="SHAREEXT@LOKAL", Mohon Maaf Lahir Batin
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/user/NetInsights/live
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",INDOSIAR
-http://210.210.155.37/qwr9ew/s/s04/index.m3u8
-#http://47.250.50.187:8866/live?channel_id=7185
+http://203.77.246.50:5000/udp/239.1.1.110:5000
+#http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",SCTV
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 #https://bagoltvku.my.id/PUNYA-MVTV/master-24.m3u8
@@ -165,6 +165,12 @@ http://210.210.155.37/uq2663/h/h08/index.m3u8
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LIVE|SPORTS",(true)BeinSport(rolling)
 http://4digital.ddns.net:11222/ts/0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",BWF.1_live
+https://raw.githubusercontent.com/tvbolaonline98/dontol/main/Bantuntun.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",BWF.2_live
+https://raw.githubusercontent.com/tvbolaonline98/dontol/main/Bantuntun2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",BWF.3_live
+https://raw.githubusercontent.com/tvbolaonline98/dontol/main/Bdanton3.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",SPOTV
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SHAREEXT@LIVE|SPORTS",SPOTV2
