@@ -2,7 +2,7 @@
 #EXTINF: -1 tvg-logo="https://img.inews.co.id/media/600/files/inews_new/2022/04/29/ucapan_selamat_idul_fitri_2022.jpg" group-title="SHAREEXT@LOKAL", Selamat Hari Raya Idul Fitri 1443 H
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://img.inews.co.id/media/600/files/inews_new/2022/04/29/ucapan_selamat_idul_fitri_2022.jpg" group-title="SHAREEXT@LOKAL", Mohon Maaf Lahir Batin
-https://rctiplus.seulangatv.com/https://d32k4dhnksn5q9.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
+mkctvbro.ddns.net/vidcom/205-indosiar.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SHAREEXT@LOKAL",INDOSIAR
 http://20.92.82.28:8866/live?channel_id=7182
 #http://203.77.246.50:5000/udp/239.1.1.110:5000
